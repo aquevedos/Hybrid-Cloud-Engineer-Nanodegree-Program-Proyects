@@ -55,7 +55,7 @@
  >
  <br/>
 
- > * Artifacts: [Anita-Quevedo-HybridCloud-Nutanix_Cluster_as_Built_2021-03-23_174147.xlsx](https://drive.google.com/file/d/1w-XbVtIhGSnLquf7VFDOjfyLDV5Cu5Hn/view?usp=sharing), [Email_to_CTO.txt]
+ > * Artifacts: [Anita-Quevedo-HybridCloud-Nutanix_Cluster_as_Built_2021-03-23_174147.xlsx](https://drive.google.com/file/d/1w-XbVtIhGSnLquf7VFDOjfyLDV5Cu5Hn/view?usp=sharing) , ![txt] [Email_to_CTO.txt]
 
  <br/>
 
