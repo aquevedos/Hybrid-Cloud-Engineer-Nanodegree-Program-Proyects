@@ -63,5 +63,6 @@
  <br/>
 
 
-
+> #### Tools: 
+Nutanix Prism Element,  Microsoft Excel, Notepad, Configuration Documenter
 
