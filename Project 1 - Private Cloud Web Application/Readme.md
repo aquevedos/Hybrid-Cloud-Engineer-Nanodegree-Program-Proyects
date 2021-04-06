@@ -59,6 +59,10 @@
  - [Anita-Quevedo-HybridCloud-Nutanix_Cluster_as_Built_2021-03-23_174147.xlsx](https://drive.google.com/file/d/1w-XbVtIhGSnLquf7VFDOjfyLDV5Cu5Hn/view?usp=sharing) 
  
  - [Email CTO](Email_to_CTO.txt)
+ - [Email Team of Network Operations](Email_to_NetworkOperations.txt)
+ - [Email Team of Systems Administration](Email_to_Systems_Administration.txt)
+
+
 
  <br/>
 
